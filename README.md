@@ -8,7 +8,7 @@ Add your name to the CONTRIBUTORS list in script.js (or to [`CONTRIBUTORS.md`](C
 ## Try it locally
 
 1. Clone your fork.
-2. Open `index.html` in your browser. That's it — no server, no build step.
+2. Open `index.html` in your browser. That's it.
 
 ## Files in this repo
 
