@@ -1,9 +1,9 @@
-/* ==========================================================
+CDATASectionc/* ==========================================================
    CONTRIBUTORS: add your name on a NEW line, keep the comma!
    ========================================================== */
 const CONTRIBUTORS = [
-  "Mozilla", "CCOEW" , "Pune" , "Hemaani Jadkar"
-  // add your name below this line
+
+  "Mozilla", "CCOEW" , "Pune" , "Hemaani Jadkar", "Shreya Bargal"
   
 ];
 
