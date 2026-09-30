@@ -3,10 +3,10 @@ CDATASectionc/* ==========================================================
    ========================================================== */
 const CONTRIBUTORS = [
 
-  "Mozilla", "CCOEW" , "Pune",
-  // add your name below this line
-  "Rajasee"
-  "Mozilla", "CCOEW" , "Pune", "Shreya Bargal"
+
+  "Mozilla", "CCOEW" , "Pune","SAKSHI DALAVI", "Rajasee", "Shreya Bargal"
+
+  
   // add your name below this lin
 ];
 
