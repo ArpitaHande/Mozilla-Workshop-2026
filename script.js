@@ -3,11 +3,8 @@ CDATASectionc/* ==========================================================
    ========================================================== */
 const CONTRIBUTORS = [
 
-
-  "Mozilla", "CCOEW" , "Pune","SAKSHI DALAVI", "Rajasee", "Shreya Bargal"
-
-  
-  // add your name below this lin
+  "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", "Shreya Bargal"
+  // add your name below this line
 ];
 
 //Open source flip cards
