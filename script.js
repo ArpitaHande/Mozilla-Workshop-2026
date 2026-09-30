@@ -1,10 +1,13 @@
-/* ==========================================================
+CDATASectionc/* ==========================================================
    CONTRIBUTORS: add your name on a NEW line, keep the comma!
    ========================================================== */
 const CONTRIBUTORS = [
+
   "Mozilla", "CCOEW" , "Pune",
   // add your name below this line
   "Rajasee"
+  "Mozilla", "CCOEW" , "Pune", "Shreya Bargal"
+  // add your name below this lin
 ];
 
 //Open source flip cards
