@@ -3,9 +3,9 @@
    ========================================================== */
 const CONTRIBUTORS = [
 
-  "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", "Shreya Bargal", "Mansi patil", "Ananya Kulkarni",
+  "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", 
+  "Shreya Bargal", "Mansi patil", "Ananya Kulkarni",  "SOUMILI GHOSH", "Yugaa Deshmukh", "Sadhana",
   // add your name below this line
-  "SOUMILI GHOSH", "Yugaa Deshmukh"
 ];
 
 //Open source flip cards
