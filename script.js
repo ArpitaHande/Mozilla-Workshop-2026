@@ -1,12 +1,10 @@
 /* ==========================================================
    CONTRIBUTORS: add your name on a NEW line, keep the comma!
    ========================================================== */
-const CONTRIBUTORS = [
- 
-
+const CONTRIBUTORS = [ 
   "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", 
   "Shreya Bargal", "Mansi patil", "Ananya Kulkarni",  "SOUMILI GHOSH", "Yugaa Deshmukh", "Sadhana", "Madhura Malpe",
-  "Iravati", "Ava", "Ananya Hiremath", "Gargi", "Shreya Pant", "Madhura Shinde", "Kaveri Patil"
+  "Iravati", "Ava", "Ananya Hiremath", "Gargi", "Shreya Pant", "Madhura Shinde", "Kaveri Patil", "Kirtigya singh"
 // add your name below this line
 ];
 
