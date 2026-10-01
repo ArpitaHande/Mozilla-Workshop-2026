@@ -5,7 +5,7 @@ const CONTRIBUTORS = [
 
   "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", 
   "Shreya Bargal", "Mansi patil", "Ananya Kulkarni",  "SOUMILI GHOSH", "Yugaa Deshmukh", "Sadhana", "Madhura Malpe",
-  "Iravati", "Ava", "Ananya Hiremath",
+  "Iravati", "Ava", "Ananya Hiremath", "Gargi"
 // add your name below this line
 ];
 
