@@ -5,8 +5,8 @@ const CONTRIBUTORS = [
 
   "Mozilla", "CCOEW" , "Pune", "Devshree Patil", "SAKSHI DALAVI", "Rajasee", 
   "Shreya Bargal", "Mansi patil", "Ananya Kulkarni",  "SOUMILI GHOSH", "Yugaa Deshmukh", "Sadhana", "Madhura Malpe",
-  // add your name below this line
-  "Iravati"
+  "Iravati", "Ava",
+// add your name below this line
 ];
 
 //Open source flip cards
